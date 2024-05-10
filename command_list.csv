@@ -1,0 +1,16 @@
+  212  git add .
+  213  git log
+  214  ls -l
+  215   checkout develop
+  216  git checkout -b develop
+  217  git branch
+  218  touch develop_test.txt
+  219  git add .
+  220  git log
+  221  vim  develop_test.txt fil
+  222  git status
+  223  git add .
+  224  git log
+  225  Git checkout main
+  226  git merge develop
+  227  git log
