@@ -1,7 +1,3 @@
-  226  git merge develop
-  227  git log
-  228  history > command_list.csv
-  229  git add .
   230  git log
   231  git push
   232  git push
@@ -14,3 +10,7 @@
   239  git commit -m "savedevelop"
   240  git checkout main 
   241  git log
+  242  history > command_list.csv
+  243  git add .
+  244  git commit -m "oxoxo"
+  245  git log
